@@ -1,0 +1,14 @@
+C:\Users\Mateu\OneDrive\Área de Trabalho\Back End\C# Course\HeroBattle\bin\Debug\net8.0\HeroBattle.exe
+C:\Users\Mateu\OneDrive\Área de Trabalho\Back End\C# Course\HeroBattle\bin\Debug\net8.0\HeroBattle.deps.json
+C:\Users\Mateu\OneDrive\Área de Trabalho\Back End\C# Course\HeroBattle\bin\Debug\net8.0\HeroBattle.runtimeconfig.json
+C:\Users\Mateu\OneDrive\Área de Trabalho\Back End\C# Course\HeroBattle\bin\Debug\net8.0\HeroBattle.dll
+C:\Users\Mateu\OneDrive\Área de Trabalho\Back End\C# Course\HeroBattle\bin\Debug\net8.0\HeroBattle.pdb
+C:\Users\Mateu\OneDrive\Área de Trabalho\Back End\C# Course\HeroBattle\obj\Debug\net8.0\HeroBattle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mateu\OneDrive\Área de Trabalho\Back End\C# Course\HeroBattle\obj\Debug\net8.0\HeroBattle.AssemblyInfoInputs.cache
+C:\Users\Mateu\OneDrive\Área de Trabalho\Back End\C# Course\HeroBattle\obj\Debug\net8.0\HeroBattle.AssemblyInfo.cs
+C:\Users\Mateu\OneDrive\Área de Trabalho\Back End\C# Course\HeroBattle\obj\Debug\net8.0\HeroBattle.csproj.CoreCompileInputs.cache
+C:\Users\Mateu\OneDrive\Área de Trabalho\Back End\C# Course\HeroBattle\obj\Debug\net8.0\HeroBattle.dll
+C:\Users\Mateu\OneDrive\Área de Trabalho\Back End\C# Course\HeroBattle\obj\Debug\net8.0\refint\HeroBattle.dll
+C:\Users\Mateu\OneDrive\Área de Trabalho\Back End\C# Course\HeroBattle\obj\Debug\net8.0\HeroBattle.pdb
+C:\Users\Mateu\OneDrive\Área de Trabalho\Back End\C# Course\HeroBattle\obj\Debug\net8.0\HeroBattle.genruntimeconfig.cache
+C:\Users\Mateu\OneDrive\Área de Trabalho\Back End\C# Course\HeroBattle\obj\Debug\net8.0\ref\HeroBattle.dll
